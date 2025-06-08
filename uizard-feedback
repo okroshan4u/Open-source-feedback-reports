@@ -1,0 +1,50 @@
+# Uizard UI Feedback – Export Progress Spacing Issue
+
+**Date Reported:** May 30, 2025  
+**Status:** Acknowledged by Uizard support team
+
+## 📝 Description
+
+While using Uizard to export a design, I noticed that once the export progress reaches `100%`, the spacing between the `0` and `%` symbol becomes too tight, creating a small but visible UI inconsistency.
+
+This affects visual clarity at the final export step.
+
+---
+
+## 📸 Short video
+
+
+
+---
+
+## 🧪 Steps to Reproduce
+
+1. Design anything in Uizard.
+2. Export the project.
+3. Observe the loader progress as it reaches `100%`.
+
+---
+
+## ✅ Action Taken
+
+- Reported the issue via Uizard's official contact form.
+- Received a response from support (Karl) confirming it has been escalated to the team.
+
+---
+
+## 💬 My Suggestion
+
+Apply minor spacing (margin or letter-spacing) to the `%` symbol or use a different layout/font rule once the progress hits three digits.
+
+---
+
+## 📬 Uizard Response
+
+> “...rest assured that I'll be raising this to the team directly for further investigation and possible adjustment.”
+
+---
+
+## 🤝 Takeaway
+
+Even small UI issues matter. I aim to continue contributing visual feedback like this to help improve user experience on tools I use.
+
