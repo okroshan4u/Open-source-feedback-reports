@@ -26,13 +26,17 @@ This creates a minor inconsistency in an otherwise polished interface.
 
 
 ## Screenshots and video
-
-https://github.com/okroshan4u/ui-feedback-reports/blob/main/uizard/response%20from%20me%202.jpg
+https://github.com/user-attachments/assets/782ebd22-bd06-494d-a337-744a2fd9ea72
 
 
 ## ✅ Action Taken
 - Reported the issue via Uizard's official contact form.
 - Received a response from support (Karl) confirming it has been escalated to the team.
+
+ ![Image](https://github.com/user-attachments/assets/260bef19-033c-4a2a-b1c0-fabbd853fa56)
+![Image](https://github.com/user-attachments/assets/b67ec55f-5bd0-4784-b590-e370c0fc7208)
+![Image](https://github.com/user-attachments/assets/a213009f-d4f6-48db-a0d0-18b1768cc183)
+![Image](https://github.com/user-attachments/assets/b81920e2-2659-4c9b-8fa3-f4a459ff8f55)
 
 
 ## 💬 My suggestion
