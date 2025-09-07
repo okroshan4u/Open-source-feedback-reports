@@ -1,0 +1,43 @@
+# Snapchat Screenshot Detection Bypass
+
+## 📋 Summary
+This research focuses on a privacy-related issue in the Snapchat Android app. Normally, when a user takes a screenshot of a snap or chat, the app notifies the other user. However, it was discovered that using **Google Assistant's screenshot functionality** bypasses this detection, allowing screenshots without triggering notifications.
+
+## 🚨 Vulnerability Type
+**Improper Authentication / Privacy Violation** – The app fails to account for alternative screenshot methods at the system level.
+
+## 🛠 Steps to Reproduce
+1. Open Snapchat on an Android device and view a snap or chat message.
+2. Activate Google Assistant by saying “Hey Google, take a screenshot” or using the device’s shortcut.
+3. The screenshot is taken and saved.
+4. No notification is sent to the other user about the screenshot being captured.
+
+## ✅ Expected Behavior
+Snapchat should notify users whenever a screenshot is taken, regardless of the method used.
+
+## ❌ Actual Behavior
+Google Assistant’s screenshot feature bypasses Snapchat’s detection mechanism, resulting in screenshots without notifications.
+
+## 📬 Reporting & Outcome
+- Reported responsibly via [HackerOne](https://hackerone.com).
+- The issue was acknowledged but had already been reported by another researcher.
+- The experience helped deepen understanding of privacy flaws, platform-specific vulnerabilities, and responsible disclosure processes.
+
+## 📧 Acknowledgment
+
+Below is the acknowledgment email received from Snapchat’s security team confirming that the reported issue was reviewed and listed:
+
+![Snapchat Acknowledgment](./acknowledgment.png)
+
+---
+
+## 📂 Related Concepts
+- Privacy & Data Protection
+- Authentication & Access Control
+- Android System Integration
+- Ethical Reporting and Bug Bounty Processes
+
+## 📌 Lessons Learned
+- Mobile apps must account for alternative system-level behaviors.
+- Responsible disclosure is crucial for community trust and platform security.
+- Even duplicate reports are valuable learning experiences and contribute to research skills.
