@@ -27,7 +27,7 @@ Google Assistant’s screenshot feature bypasses Snapchat’s detection mechanis
 
 Below is the acknowledgment email received from Snapchat’s security team confirming that the reported issue was reviewed and listed:
 
-https://raw.githubusercontent.com/okroshan4u/Open-source-feedback-reports/refs/heads/main/Snap-chat-privacy-fix/Screenshot%202025-09-07%20121717.jpg
+![image alt](https://raw.githubusercontent.com/okroshan4u/Open-source-feedback-reports/refs/heads/main/Snap-chat-privacy-fix/Screenshot%202025-09-07%20121717.jpg)
 
 
 ## 📂 Related Concepts
