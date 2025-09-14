@@ -1,4 +1,4 @@
-# HackerOne UI Issue – Weakness Dropdown Extends Beyond View
+# HackerOne UI Issue – Weakness Dropdown Extends Beyond Viewport
 
 ## 📋 Overview
 
