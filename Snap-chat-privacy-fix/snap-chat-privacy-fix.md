@@ -1,4 +1,4 @@
-# Snapchat Screenshot Detection Bypa
+# Snapchat Screenshot Detection Byp
 
 ## 📋 Summary
 This research focuses on a privacy-related issue in the Snapchat Android app. Normally, when a user takes a screenshot of a snap or chat, the app notifies the other user. However, it was discovered that using **Google Assistant's screenshot functionality** bypasses this detection, allowing screenshots without triggering notifications.
