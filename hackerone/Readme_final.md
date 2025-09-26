@@ -37,6 +37,7 @@ The dropdown should:
 ## 📸 Screenshots
 
 Screenshots are included in this repository to demonstrate how the dropdown is cut off and unusable.
+img[!
 
 ---
 
