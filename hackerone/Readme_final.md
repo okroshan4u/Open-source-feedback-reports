@@ -37,7 +37,7 @@ The dropdown should:
 ## 📸 Screenshots
 
 Screenshots are included in this repository to demonstrate how the dropdown is cut off and unusable.
-img[!
+[!image_alt](https://github.com/okroshan4u/Open-source-feedback-reports/blob/3f9a33acc841f8573616884c1a308f8c087f3ca6/hackerone/screencapture-hackerone-bugs-2025-09-26-19_23_37.png)
 
 ---
 
